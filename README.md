@@ -21,7 +21,7 @@ A professional landing page showcasing my skills, projects, and technical expert
 
 ## 🤝 Connect With Me
 - **LinkedIn:** [Tzedek's Profile](https://www.linkedin.com/in/tzedek-) 💼
-- **Email:** mse100100100@gmail.com 📧
+- Email: mse100100100@gmail.com 📧
 
 ---
 *Built with precision and passion.*
