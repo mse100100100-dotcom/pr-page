@@ -10,7 +10,7 @@ A professional landing page showcasing my skills, projects, and technical expert
 * **JavaScript** – Clean logic and interactive user experience. ⚡
 
 ## 🌐 Live Demonstration
-**View My Professional Profile:([https://YOUR_USERNAME.github.io/YOUR_REPO_NAME/](https://github.com/mse100100100-dotcom/pr-page/edit/main/README.md))** 🔗
+**View My Professional Profile:([לחצו כאן לעריכת הקובץ](https://github.com/mse100100100-dotcom/pr-page/edit/main/README.md))** 🔗
 
 ---
 
